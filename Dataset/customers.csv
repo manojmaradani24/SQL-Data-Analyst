@@ -1,0 +1,11 @@
+customer_id,customer_name,email,city,state,join_date
+1,Rahul Sharma,rahul@gmail.com,Hyderabad,Telangana,2024-01-10
+2,Priya Reddy,priya@gmail.com,Vijayawada,Andhra Pradesh,2024-02-15
+3,Amit Kumar,amit@gmail.com,Bangalore,Karnataka,2024-03-20
+4,Sneha Patel,sneha@gmail.com,Mumbai,Maharashtra,2024-04-05
+5,Kiran Rao,kiran@gmail.com,Chennai,Tamil Nadu,2024-05-12
+6,Anjali Verma,anjali@gmail.com,Delhi,Delhi,2024-06-01
+7,Vikram Singh,vikram@gmail.com,Pune,Maharashtra,2024-06-15
+8,Neha Gupta,neha@gmail.com,Kolkata,West Bengal,2024-07-10
+9,Arjun Nair,arjun@gmail.com,Kochi,Kerala,2024-08-01
+10,Pooja Sharma,pooja@gmail.com,Hyderabad,Telangana,2024-08-20

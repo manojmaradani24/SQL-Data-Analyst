@@ -1,0 +1,11 @@
+product_id,product_name,category_id,price
+101,iPhone 15,1,79999
+102,Samsung Galaxy S24,1,74999
+103,HP Laptop,1,65000
+104,T-Shirt,2,799
+105,Jeans,2,1499
+106,Microwave Oven,3,8999
+107,Refrigerator,3,25999
+108,SQL Fundamentals,4,499
+109,Data Analytics Book,4,699
+110,Nike Shoes,5,4999
